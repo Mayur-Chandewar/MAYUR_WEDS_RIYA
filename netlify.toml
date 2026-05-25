@@ -1,0 +1,7 @@
+[build]
+  publish = "Engagement"
+
+[[redirects]]
+  from = "/"
+  to = "/ENGAGEMENT.html"
+  status = 200
